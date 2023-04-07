@@ -1,4 +1,4 @@
-#Hash Generator
+#Hash Generator#
 This program generates hashes for keys using different hash functions. You can choose from four different hash functions: Simple, Complex, Speller, and MurMur. You can also choose to generate hashes for a single key or multiple keys in one go with the same hash.
 
 ##Getting Started
